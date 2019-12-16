@@ -1,0 +1,9 @@
+simple_3_nodes.graph:
+  bridges:
+  - !!python/tuple
+    - 1
+    - 2
+  - !!python/tuple
+    - 2
+    - 3
+  nodes: 3

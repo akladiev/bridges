@@ -1,0 +1,15 @@
+four_bridges.graph:
+  bridges:
+  - !!python/tuple
+    - 1
+    - 2
+  - !!python/tuple
+    - 2
+    - 3
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 5
+  nodes: 5

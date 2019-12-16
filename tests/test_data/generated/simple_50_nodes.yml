@@ -1,0 +1,12 @@
+simple_50_nodes.graph:
+  bridges:
+  - !!python/tuple
+    - 1
+    - 42
+  - !!python/tuple
+    - 16
+    - 17
+  - !!python/tuple
+    - 24
+    - 47
+  nodes: 50

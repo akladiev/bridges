@@ -1,0 +1,230 @@
+0.01_density_100_nodes_104_edges.graph:
+  bridges:
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - &id001 !!python/object/apply:numpy.dtype
+        args:
+        - i4
+        - 0
+        - 1
+        state: !!python/tuple
+        - 3
+        - <
+        - null
+        - null
+        - null
+        - -1
+        - -1
+        - 0
+      - !!binary |
+        AQAAAA==
+    - 24
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        AgAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        UAAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        AwAAAA==
+    - 12
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        BAAAAA==
+    - 40
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        CgAAAA==
+    - 87
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        DAAAAA==
+    - 66
+  - !!python/tuple
+    - &id002 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        DwAAAA==
+    - 68
+  - !!python/tuple
+    - *id002
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        TwAAAA==
+  - !!python/tuple
+    - &id003 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        EwAAAA==
+    - &id005 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        QQAAAA==
+  - !!python/tuple
+    - *id003
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        MgAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        GgAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        TgAAAA==
+  - !!python/tuple
+    - &id004 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        GwAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        QAAAAA==
+  - !!python/tuple
+    - *id004
+    - *id005
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        HgAAAA==
+    - 62
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        HwAAAA==
+    - 42
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        IAAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        KwAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        IQAAAA==
+    - 43
+  - !!python/tuple
+    - &id006 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        IgAAAA==
+    - 83
+  - !!python/tuple
+    - *id006
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        ZAAAAA==
+  - !!python/tuple
+    - &id007 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        JAAAAA==
+    - *id005
+  - !!python/tuple
+    - *id007
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        XAAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        JQAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        LgAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        KAAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        LwAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        LQAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        PAAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        MAAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        NQAAAA==
+  - !!python/tuple
+    - &id008 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        NwAAAA==
+    - 90
+  - !!python/tuple
+    - *id008
+    - 93
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        OQAAAA==
+    - 76
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        SQAAAA==
+    - &id009 !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        XgAAAA==
+  - !!python/tuple
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        TQAAAA==
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        XwAAAA==
+  - !!python/tuple
+    - *id009
+    - !!python/object/apply:numpy.core.multiarray.scalar
+      - *id001
+      - !!binary |
+        YwAAAA==
+  edges: 104
+  nodes: 100

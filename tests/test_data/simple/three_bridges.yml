@@ -1,0 +1,12 @@
+three_bridges.graph:
+  bridges:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 4
+    - 6
+  nodes: 6

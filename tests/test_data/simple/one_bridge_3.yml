@@ -1,0 +1,6 @@
+one_bridge_3.graph:
+  bridges:
+  - !!python/tuple
+    - 3
+    - 4
+  nodes: 6

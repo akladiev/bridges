@@ -1,0 +1,6 @@
+simple_10_nodes.graph:
+  bridges:
+  - !!python/tuple
+    - 2
+    - 5
+  nodes: 10

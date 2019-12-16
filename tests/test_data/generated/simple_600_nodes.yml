@@ -1,0 +1,9 @@
+simple_600_nodes.graph:
+  bridges:
+  - !!python/tuple
+    - 34
+    - 39
+  - !!python/tuple
+    - 87
+    - 472
+  nodes: 600

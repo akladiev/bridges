@@ -1,0 +1,30 @@
+simple_100_nodes.graph:
+  bridges:
+  - !!python/tuple
+    - 10
+    - 46
+  - !!python/tuple
+    - 11
+    - 15
+  - !!python/tuple
+    - 18
+    - 33
+  - !!python/tuple
+    - 22
+    - 93
+  - !!python/tuple
+    - 40
+    - 52
+  - !!python/tuple
+    - 44
+    - 70
+  - !!python/tuple
+    - 50
+    - 65
+  - !!python/tuple
+    - 60
+    - 63
+  - !!python/tuple
+    - 62
+    - 74
+  nodes: 100

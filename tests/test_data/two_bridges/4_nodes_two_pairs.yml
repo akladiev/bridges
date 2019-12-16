@@ -1,0 +1,17 @@
+4_nodes_two_pairs.graph:
+  nodes: 4
+  two_bridges:
+    - !!python/tuple
+      - !!python/tuple
+        - 1
+        - 2
+      - !!python/tuple
+        - 1
+        - 4
+    - !!python/tuple
+      - !!python/tuple
+        - 2
+        - 3
+      - !!python/tuple
+        - 3
+        - 4

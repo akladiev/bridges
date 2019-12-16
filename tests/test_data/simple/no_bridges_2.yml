@@ -1,0 +1,3 @@
+no_bridges_2.graph:
+  dfs: 1
+  nodes: 3

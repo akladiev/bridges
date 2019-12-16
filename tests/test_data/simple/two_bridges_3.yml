@@ -1,0 +1,9 @@
+two_bridges_3.graph:
+  bridges:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 3
+    - 5
+  nodes: 7
