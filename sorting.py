@@ -5,19 +5,19 @@ def radix_sort(container, key=lambda x: x):
     if not container:
         return []
     assert (all([key(x) >= 0 for x in container]))
-    radix = 10
-    n = 0
+    shift = 16
+    n = 1
     while True:
-        digits = {i: [] for i in range(radix)}
+        digits = {i: [] for i in range(2 ** shift)}
         digits_before_nth = []
-        for idx, element in enumerate(container):
-            elder_digits = key(element) // radix ** n
+        for element in container:
+            elder_digits = key(element) >> (shift * n)
             digits_before_nth.append(elder_digits)
-            nth_digit = elder_digits % radix
+            nth_digit = (key(element) >> (shift * (n-1))) & ((2 ** shift) - 1)
             digits[nth_digit].append(element)
+        container = [x for numbers in digits.values() for x in numbers]
         if all([x == 0 for x in digits_before_nth]):
             break
-        container = [x for numbers in digits.values() for x in numbers]
         n += 1
     return container
 
