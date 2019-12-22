@@ -16,7 +16,7 @@ if __name__ == '__main__':
     sort_funcs = {"sorted": sorted, "bucket": bucket_sort, "radix": radix_sort}
 
     step = 500
-    densities = [0.01]
+    densities = [0.001, 0.01, 0.03, 0.05, 0.1]
     node_counts = list(range(5000, 10000 + step, step))
     sparse = sorted(list(itertools.product(densities, node_counts)))
 
